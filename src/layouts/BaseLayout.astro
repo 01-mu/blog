@@ -3,7 +3,7 @@ import "../styles/global.css";
 
 const { title, description, mainClass = "main--page" } = Astro.props;
 const siteTitle = "mu log";
-const siteTagline = "Designing systems from nothing(mu / 無).";
+const siteTagline = "think from nothing(mu / 無).";
 const pageTitle = title ? `${title} · ${siteTitle}` : siteTitle;
 const pageDescription = description ?? siteTagline;
 const pageUrl = Astro.url.href;
@@ -93,7 +93,7 @@ const mainClasses = [
     <footer
       class="mx-auto mb-10 max-w-[76ch] px-6 text-center text-[0.85rem] text-muted"
     >
-      <span>Quiet notes for long-form thinking.</span>
+      <span>Notes for thinking.</span>
     </footer>
   </body>
 </html>
