@@ -9,8 +9,6 @@ draft: false
 I had wanted to publish something for a long time, and I finally started.
 I want to put my thoughts out into the world as they are.
 
----
-
 ## The influence of Codex
 
 On the development side, starting to use Codex has also had a big impact.
@@ -25,8 +23,6 @@ Those behaviors became much more natural.
 
 Even if people call it vibe coding, I am good at understanding things by reading the artifact after I have actually built it, so I think it suits me well.
 Because of this tool, I feel more open to new technologies than I used to be.
-
----
 
 ## About this blog
 
