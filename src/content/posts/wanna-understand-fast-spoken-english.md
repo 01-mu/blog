@@ -3,7 +3,7 @@ title: "Listening to English in Melbourne"
 date: 2026-06-29
 tags: ["notes", "English"]
 description: "I'm writing down what I'm working on right now"
-draft: true
+draft: false
 ---
 
 ## I can't listen to fast spoken English!!
