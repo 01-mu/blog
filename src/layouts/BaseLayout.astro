@@ -3,7 +3,7 @@ import "../styles/global.css";
 
 const { title, description, mainClass = "main--page" } = Astro.props;
 const siteTitle = "Masato's Notes";
-const siteTagline = "think from nothing.";
+const siteTagline = "Notes on software, language, and life.";
 const pageTitle = title ? `${title} · ${siteTitle}` : siteTitle;
 const pageDescription = description ?? siteTagline;
 const pageUrl = Astro.url.href;
