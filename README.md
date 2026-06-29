@@ -1,6 +1,6 @@
-# mu log
+# Masato log
 
-A calm, long-form English personal blog for mu. The site is intentionally
+A calm, long-form English personal blog for Masato. The site is intentionally
 minimal so the writing stays quiet and readable.
 
 ## Public Repository Security Policy

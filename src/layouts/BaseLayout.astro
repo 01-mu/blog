@@ -2,8 +2,8 @@
 import "../styles/global.css";
 
 const { title, description, mainClass = "main--page" } = Astro.props;
-const siteTitle = "mu log";
-const siteTagline = "think from nothing(mu / 無).";
+const siteTitle = "Masato log";
+const siteTagline = "think from nothing.";
 const pageTitle = title ? `${title} · ${siteTitle}` : siteTitle;
 const pageDescription = description ?? siteTagline;
 const pageUrl = Astro.url.href;
@@ -54,7 +54,7 @@ const mainClasses = [
     <link
       rel="alternate"
       type="application/rss+xml"
-      title="mu log"
+      title="Masato log"
       href="/rss.xml"
     />
     <link rel="icon" type="image/png" href="/favicon.png" />
@@ -73,7 +73,7 @@ const mainClasses = [
         <a
           href="/"
           class="text-[1.8rem] font-semibold tracking-[0.01em]"
-          aria-label="mu log"
+          aria-label="Masato log"
         >
           {siteTitle}
         </a>
