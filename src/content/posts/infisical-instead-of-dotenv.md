@@ -3,7 +3,7 @@ title: "Infisical instead of .env"
 date: 2026-05-25
 tags: ["infisical"]
 description: "To manage my secret keys."
-draft: false
+draft: true
 ---
 
 I started using Infisical to manage my secret keys.
