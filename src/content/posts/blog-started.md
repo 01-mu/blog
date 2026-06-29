@@ -1,7 +1,7 @@
 ---
 title: "Starting This Blog"
 date: 2026-01-16
-tags: ["blog", "notes"]
+tags: ["notes"]
 description: "Why I started this blog, and how my learning and development habits have been changing lately."
 draft: false
 ---
