@@ -2,7 +2,7 @@
 import "../styles/global.css";
 
 const { title, description, mainClass = "main--page" } = Astro.props;
-const siteTitle = "Masato log";
+const siteTitle = "Masato's Notes";
 const siteTagline = "think from nothing.";
 const pageTitle = title ? `${title} · ${siteTitle}` : siteTitle;
 const pageDescription = description ?? siteTagline;
@@ -54,7 +54,7 @@ const mainClasses = [
     <link
       rel="alternate"
       type="application/rss+xml"
-      title="Masato log"
+      title="Masato's Notes"
       href="/rss.xml"
     />
     <link rel="icon" type="image/png" href="/favicon.png" />
@@ -73,7 +73,7 @@ const mainClasses = [
         <a
           href="/"
           class="text-[1.8rem] font-semibold tracking-[0.01em]"
-          aria-label="Masato log"
+          aria-label="Masato's Notes"
         >
           {siteTitle}
         </a>

@@ -1,4 +1,4 @@
-# Masato log
+# Masato's Notes
 
 A calm, long-form English personal blog for Masato. The site is intentionally
 minimal so the writing stays quiet and readable.

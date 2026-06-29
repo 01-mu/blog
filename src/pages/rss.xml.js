@@ -5,7 +5,7 @@ export async function GET(context) {
   const posts = await getVisiblePosts();
 
   return rss({
-    title: "Masato log",
+    title: "Masato's Notes",
     description: "Designing systems from nothingness.",
     site: context.site,
     items: posts.map((post) => ({
